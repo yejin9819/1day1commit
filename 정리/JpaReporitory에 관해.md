@@ -1,10 +1,10 @@
-# 스켈레톤 코드 분석3
+# JpaReporitory에 관해
 
 날짜: January 18, 2022
-유형: 스켈레톤 코드 분석
+유형: 스켈레톤 코드 분석을 하면서 알게된 것을 정리
 
 ## SignService.java
-
+- 이 코드를 보면서 잘 이해가 안되는 점을 찾아 정리했다.
 ```java
 package com.ssafy.api.service;
 
